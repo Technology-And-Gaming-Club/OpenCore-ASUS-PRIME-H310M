@@ -25,7 +25,9 @@
 - Press `M` to change the Max OS, then enter 10.16 to update the catalog to Big Sur.
 - Press `C` to change the catalog, then enter `4` to select the developer catalog.
 - Select the number for the Big Sur beta to start downloading it.
+
 ![gibMacOS](https://raw.githubusercontent.com/Technology-And-Gaming-Club/OpenCore-ASUS-PRIME-H310M/master/gibMacOS.gif)
+
 - Once finished, open the `InstallAssistant.pkg` that was downloaded - it will be located in the `gibMacOS/macOS Downloads/developer/XXX-XXXXX - Install macOS Beta` folder. This package from Apple will create `Install macOS Big Sur Beta.app` in your `/Applications` folder.
 - Run the InstallAssistant.pkg and point this to whichever drive you're booting off of, this is where the Install.app will be dropped:
 Screenshot
